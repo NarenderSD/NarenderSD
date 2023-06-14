@@ -7,7 +7,7 @@
 <!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3XU7j-fDXB8S8v8sInsHu9t_McIl-O2KSJuuRGnzLn2dUwh4-&s)](https://narendersd.io) -->
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXBoVFGXO431P6AhcQGMcmEPF15lGYgbLGIh8qYz8SHPhXj4&s">
+<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
