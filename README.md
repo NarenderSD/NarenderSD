@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on You
 - 📫 How to reach me instagram id the_narender_singh
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-6U7qKeVncWpbi0JDS-DQZZhg-fBHwQTiTM46TRxuyjYiyt7&s)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://m.economictimes.com/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster/primearticleshow/84146083.cms)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXBoVFGXO431P6AhcQGMcmEPF15lGYgbLGIh8qYz8SHPhXj4&s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
