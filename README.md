@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendersd" alt="narendersd" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/narender_code" target="blank"><img src="https://img.shields.io/twitter/follow/narender_code?logo=twitter&style=for-the-badge" alt="narender_code" /></a> </p>
 
