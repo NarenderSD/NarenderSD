@@ -1,12 +1,12 @@
 <!-- - 👋 Hi, I’m @NarenderSD
 - 👀 I’m interested in Softwer Devlopment
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on You
-- 📫 How to reach me instagram id the_narender_singh -->
+- 🌱 I’m currently learning Web Devlopment & App Development
+- 💞️ I’m looking to Job & collaborate on You
+- 📫 How to reach me instagram id narendercode -->
 
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App & Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 
