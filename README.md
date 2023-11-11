@@ -62,12 +62,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendersd&" alt="narendersd" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendersd&show_icons=true&locale=en&layout=compact" alt="narendersd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendersd&show_icons=true&locale=en" alt="narendersd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendersd&" alt="narendersd" /></p>
-
 
 <!---
 NarenderSD/NarenderSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
