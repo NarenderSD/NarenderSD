@@ -7,20 +7,15 @@
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/narendercode" target="blank"><img src="https://img.shields.io/twitter/follow/narendercode?logo=twitter&style=for-the-badge" alt="narendercode" /></a> </p>
-
-- 🌱 I’m currently learning **Web Development, etc.**
-- Other Github id :- https://github.com/Narender01
-
-- 📫 How to reach me **narendersdcs@gmail.com**
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate Full Stack App & Web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
 
@@ -39,6 +34,13 @@
 - 💬 Ask me about **Flutter, Web Development,**
 
 - 📫 How to reach me **narendersinghcode@gmail.com**
+- **<p align="left"> <a href="https://twitter.com/narendercode" target="blank"><img src="https://img.shields.io/twitter/follow/narendercode?logo=twitter&style=for-the-badge" alt="narendercode" /></a> </p>
+
+- 🌱 I’m currently learning **Web Development, etc.**
+- Other Github id :- https://github.com/Narender01
+
+- 📫 How to reach me **narendersdcs@gmail.com**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
