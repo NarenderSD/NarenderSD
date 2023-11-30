@@ -27,13 +27,13 @@
 
 <p align="left"> <a href="https://twitter.com/narender_code" target="blank"><img src="https://img.shields.io/twitter/follow/narender_code?logo=twitter&style=for-the-badge" alt="narender_code" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Ecommerce Flutter App**
+- 🔭 I’m currently working on **Development**
 
 - 🌱 I’m currently learning **Full stack App & Web Development, Flutter**
 
-- 👯 I’m looking to collaborate on **Amazon Ecommerce Flutter App**
+- 👯 I’m looking to collaborate on **Development**
 
-- 🤝 I’m looking for help with **Amazon Ecommerce Flutter App**
+- 🤝 I’m looking for help with **Development**
 
 - 💬 Ask me about **Flutter, Web Development,**
 
