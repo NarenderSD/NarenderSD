@@ -1,7 +1,7 @@
 <!-- - 👋 Hi, I’m @NarenderSD
 - 👀 I’m interested in Softwer Devlopment
 - 🌱 I’m currently learning Web Devlopment & App Development
-- 💞️ I’m looking to Job & collaborate on You
+- 💞️ I’m looking to Job 
 - 📫 How to reach me instagram id narendercode 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>-->
