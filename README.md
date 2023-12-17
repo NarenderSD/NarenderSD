@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>-->
 
+![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
+<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate Full Stack App & Web developer from India</h3>
