@@ -6,12 +6,11 @@
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>-->
 
-
-
-
-
-
-
+<div align="center">
+  <a href="">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
 <h3 align="center">A passionate Full Stack App & Web developer from India</h3>
