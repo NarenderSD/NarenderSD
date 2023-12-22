@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Devlopment & App Development
 - 💞️ I’m looking to Job 
 - 📫 How to reach me instagram id narendercode 
-<h1 align="center">Hi 👋, I'm Narender Singh</h1>
+<h1 align="center">Hi 👋,I'm Narender Singh</h1>
 <h3 align="center">A passionate App & Web developer from India</h3>-->
 
 ![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
