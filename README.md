@@ -1,94 +1,252 @@
-<!-- - 👋 Hi, I’m @NarenderSD
-- 👀 I’m interested in Softwer Devlopment
-- 🌱 I’m currently learning Web Devlopment & App Development
-- 💞️ I’m looking to Job 
-- 📫 How to reach me instagram id narendercode 
-<h1 align="center">Hi 👋,I'm Narender Singh</h1>
-<h3 align="center">A passionate App & Web developer from India</h3>-->
-
-![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
-<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
-<h3 align="center">A passionate Full Stack App & Web developer from India</h3>
-
-
-<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=36D1DC&center=true&vCenter=true&width=700&lines=🙏+नमस्ते+World+🌍;Hi+👋,+I'm+Narender+Singh;A+Creative+Full+Stack+App+%26+Web+Developer;Code.+Create.+Inspire.+🚀" alt="Typing SVG" />
+</div>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendersd&label=Profile%20views&color=0e75b6&style=flat" alt="narendersd" /> </p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=NarenderSD&style=flat-square&color=00D4FF" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%92%BB;Welcome+to+my+Profile+%F0%9F%8E%89;Full+Stack+Developer+%F0%9F%9A%80;Let's+Build+Something+Amazing+%F0%9F%8E%89" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NarenderSD&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NarenderSD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarenderSD&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarenderSD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 **About Me - My Journey**
 
 
 
-<p align="left"> <a href="https://twitter.com/narender_code" target="blank"><img src="https://img.shields.io/twitter/follow/narender_code?logo=twitter&style=for-the-badge" alt="narender_code" /></a> </p>
+```javascript
+const narender = {
+    pronouns: "He" | "Him",
+    passion: "🚀 Full Stack Development",
+    code: ["JavaScript", "Python", "Java", "C++", "Dart"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Angular"],
+            css: ["Bootstrap", "Tailwind", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        mobile: ["Flutter", "React Native"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentFocus: "Full Stack Development & Mobile Apps",
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    philosophy: "Code with passion, build with innovation, serve with excellence 🚀"
+};
+```
 
-- 🔭 I’m currently working on **Development**
-
-- 🌱 I’m currently learning **Full stack App & Web Development, Flutter**
-
-- 👯 I’m looking to collaborate on **Development**
-
-- 🤝 I’m looking for help with **Development**
-
-- 💬 Ask me about **Flutter, Web Development,**
-
-- 📫 How to reach me **narendersingh8515@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/narender_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narender_code" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narender-singh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narender-singh1" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/https://www.facebook.com/profile.php?id=61552745008438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61552745008438" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/https://www.instagram.com/narendercode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/narendercode" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/https://www.youtube.com/@narendersingh22/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@narendersingh22/featured" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/https://leetcode.com/narender1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/narender1/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/narender22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/narender22/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!--   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
-<!--   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!--   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  -->
-<!--   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<!--   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendersd" alt="narendersd" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendersd&show_icons=true&locale=en&layout=compact" alt="narendersd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendersd&show_icons=true&locale=en" alt="narendersd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendersd&" alt="narendersd" /></p>
+---
 
 
+- 🔭 **Currently Working On:** Advanced Full Stack Applications & Mobile Development
+- 🌱 **Learning:** Advanced Flutter, System Design, Performance Optimization
+- 👯 **Looking to Collaborate:** Open Source Projects, Innovative Ideas
+- 💬 **Ask Me About:** Web Development, Mobile Apps, System Design
+- 📫 **Reach Me:** [narendersingh8515@gmail.com](mailto:narendersingh8515@gmail.com)
+- 🎯 **Goal:** Creating innovative solutions that make a difference
 
-<h3 align="center">Show some Narender ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+---
 
-![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b> 💻
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" width="55" height="55" /><br>Dart</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vuejs" width="55" height="55" /><br>Vue.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="55" height="55" /><br>Angular</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="55" height="55" /><br>Flask</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" /><br>Flutter</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Android Studio</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=windows" width="55" height="55" /><br>Windows</td>
+  </tr>
+</table>
+
+---
+
+## 📝 **PROJECT's ZONE** (Live Projects with Links)
 
 
+| Project                                                                                                    |
+|------------------------------------------------------------------------------------------------------------|
+| 🌐 **Leyo E-Commerce** [**🔗**](https://github.com/NarenderSD/Leyo) 
+| 🌐 **Photo Studio Pro** [**🔗**](https://github.com/NarenderSD/Photo-Studio-Pro) 
+| 🌐 **College Management System** [**🔗**](https://github.com/NarenderSD/College-management-System) 
+| 🌐  **Narender Portfolio** [**🔗**](https://narender-portfolio.netlify.app/) 
+| 🌐 **ApnaBlog** [**🔗**](https://github.com/NarenderSD/ApnaBlog) 
+| 🌐  **GitHub Profile Scraper** [**🔗**](https://github.com/NarenderSD/github-profile-scraper) 
+| 🌐 **NOTES-MEET** [**🔗**](https://github.com/NarenderSD/NOTES-MEET) 
 
-<!---
-NarenderSD/NarenderSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarenderSD&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NarenderSD&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarenderSD&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarenderSD&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NarenderSD&theme=radical" alt="Productive Time" />
+</div>
+
+---
+
+## 🌟 **Achievements & Certifications**
+
+- 🏆 **LeetCode:** [Narender1](https://leetcode.com/narender1/)
+- 📚 **GeeksforGeeks:** [narender22](https://www.geeksforgeeks.org/user/narender22/)
+- 💼 **LinkedIn:** [narender-singh1](https://www.linkedin.com/in/narender-singh1/)
+- 🌐 **Portfolio:** [narender-portfolio.netlify.app](https://narender-portfolio.netlify.app/)
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/narender-singh1/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:narendersingh8515@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://narender-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/narender1/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/narender22/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</div>
+
+---
+
+## 🎉 **Fun Facts & Current Vibes**
+
+- 🎯 **Goal:** Creating innovative solutions that make a difference
+- 🌍 **Location:** Haryana, India
+- 💡 **Motto:** "Code is poetry, and every bug is a feature waiting to be discovered"
+- 🚀 **Next Big Thing:** Building scalable applications that impact millions
+- 🎵 **Currently Vibing To:** Coding with some epic beats! 🎧
+- 🎮 **When Not Coding:** Exploring new technologies, reading tech blogs, and contributing to open source
+- 🌟 **Passion:** Full Stack Development & Mobile Apps
+
+---
+
+## 🎨 **Creative Corner - What I'm Building**
+
+```javascript
+// Current Project Status
+const currentProjects = {
+    portfolio: "🚀 Live & Responsive",
+    blogApp: "📝 Full Stack Blog Platform",
+    ecommerce: "🛒 Leyo - Modern E-Commerce",
+    photoStudio: "📸 Photo Studio Pro",
+    githubScraper: "🔍 Profile Analytics Tool",
+    notesMeet: "📚 Collaborative Notes Platform"
+};
+
+// Tech Stack I'm Mastering
+const mastering = [
+    "⚡ Advanced Flutter Development",
+    "🌐 System Design & Architecture",
+    "🤖 Performance Optimization",
+    "📱 Cross-Platform Mobile Apps",
+    "🔒 Security & Best Practices"
+];
+
+// Development Philosophy
+const philosophy = "🚀 Code with passion, build with innovation, serve with excellence";
+```
+
+---
+
+<div align="center">
+  <h3>🌟 Show some ❤️ by starring some of the repositories!</h3>
+  
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+create+something+amazing!+%F0%9F%8E%89;Happy+Coding!+%F0%9F%92%BB;Full+Stack+Development+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <h4>🚀 Ready to collaborate on amazing projects!</h4>
+
+---
+
+<div align="center">
+  <h3>🚀 Built with ❤️ by Narender Singh 🚀</h3>
+  <p><em>"Code with passion, build with innovation, serve with excellence"</em></p>
+</div> 
