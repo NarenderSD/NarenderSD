@@ -129,6 +129,7 @@ const narender = {
 |------------------------------------------------------------------------------------------------------------|
 | 🌐 **Leyo E-Commerce** [**🔗**](https://github.com/NarenderSD/Leyo) 
 | 🌐 **Photo Studio Pro** [**🔗**](https://github.com/NarenderSD/Photo-Studio-Pro) 
+  🌐 **Premium Tailoring Website** [**🔗**](https://github.com/NarenderSD/premium-tailoring-website)
 | 🌐 **College Management System** [**🔗**](https://github.com/NarenderSD/College-management-System) 
 | 🌐  **Narender Portfolio** [**🔗**](https://narender-portfolio.netlify.app/) 
 | 🌐 **ApnaBlog** [**🔗**](https://github.com/NarenderSD/ApnaBlog) 
